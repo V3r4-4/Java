@@ -1,13 +1,9 @@
 # Self-Learning Python
 Hello there👋, I'm V3r4. This repository contains basic to advanced concepts of Pythons. It is beginner friendly and easy to understand.
 
-#### Topics covered:
-* Syntax
-* Functions
-* Modules
-* Data Structures and algorithms
-* Numpy
-* Pandas
+## Projects From Roadmap.sh
+
+<a href="https://roadmap.sh/projects/task-tracker">Task Tracker</a>
 
 #### Tools and Resources used:
 * Visual Studio 
