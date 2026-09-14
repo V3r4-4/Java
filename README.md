@@ -24,9 +24,40 @@ The application should run from the command line, accept user actions and inputs
 
 <br>
 <br>
+## How to Run Python projects:
+Follow these steps to clone and run this Python project locally:
 
-#### How to run these projects:
-Clone the Repository
+### 1. Prerequisites
+Ensure you have **Python 3.8+** and **Git** installed on your system.
+
+### 2. Installation & Setup
+
+```bash
+# Clone the repository
+git clone [https://github.com/username/repository-name.git](https://github.com/username/repository-name.git)
+
+# Navigate into the project directory
+cd repository-name
+
+# Create a virtual environment
+python3 -m venv venv
+
+# Activate the virtual environment
+# On Linux/macOS:
+source venv/bin/activate
+# On Windows:
+# venv\Scripts\activate
+
+# Install required dependencies
+pip install -r requirements.txt
+```
+
+3. Running the Project
+```Bash
+python main.py
+```
+<br>
+<br> 
 
 #### Disclaimer!!!
 <br>
