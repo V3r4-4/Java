@@ -6,6 +6,7 @@ Hello there👋. This repository contains multiple projects with beginner friend
 ## Projects From Roadmap.sh
 1. TaskTracker.py
 <br>
+
 * #### Requirements:
  - The application should run from the command line, accept user actions and inputs as arguments, and store the tasks in a JSON file. The user should be able to:
   * Add, Update, and Delete tasks
@@ -21,6 +22,7 @@ Hello there👋. This repository contains multiple projects with beginner friend
 
 <br>
 <br>
+
 ## How to Run Python projects:
 Follow these steps to clone and run this Python project locally:
 
